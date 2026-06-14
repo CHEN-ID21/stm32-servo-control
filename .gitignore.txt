@@ -1,0 +1,23 @@
+# Keil 编译输出
+*.axf
+*.d
+*.dep
+*.htm
+*.lnp
+*.lst
+*.map
+*.o
+*.sct
+*.tra
+*.uvguix.*
+*.uvoptx
+*.bak
+
+# 编译目录
+Objects/
+Listings/
+DebugConfig/
+
+# 调试文件
+*.jlink
+*.ini
